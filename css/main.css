@@ -1,0 +1,27 @@
+html {
+  background: #f2f2f2;
+}
+#wrapper {
+  display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#card {
+  width: 550px;
+  height: 400px;
+  font-family: Rubik;
+  font-size: 30;
+  background: white;
+  margin-top: 100px;
+  text-align: center;
+  vertical-align: middle;
+  display: flex;
+    justify-content:center;
+    align-content:center;
+    flex-direction:column;
+  padding: 0px 50px;
+}
